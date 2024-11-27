@@ -1,4 +1,4 @@
-pushplus_token: 123456abc ## pushplus推送token
+pushplus_token: 64fc2766b7ba43d2993e682e706be1bc
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
 kk_cookie: 123456abc ##夸克网盘cookie
